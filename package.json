@@ -1,0 +1,23 @@
+{
+  "name": "aspen-ingestion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0",
+    "node-red": "^4.0.2",
+    "node-red-contrib-filesystem": "~1.0.0",
+    "node-red-contrib-postgresql": "~0.14.2",
+    "postgrestor": "~0.0.2"
+  }
+}

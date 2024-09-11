@@ -1,0 +1,6 @@
+node_modules/
+.nodered/
+flows*
+.env
+password.js
+.config*
