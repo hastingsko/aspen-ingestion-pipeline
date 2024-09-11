@@ -20,7 +20,7 @@ module.exports = {
     // Theme Customization
     editorTheme: {
         page: {
-            title: "Stratis Data Pipeline",
+            title: "Stratis Data Pipeline.",
             favicon: "/absolute/path/to/favicon.ico",
             css: "/public/styles/login-custom.css",
             scripts: ["/absolute/path/to/custom-script.js"]
